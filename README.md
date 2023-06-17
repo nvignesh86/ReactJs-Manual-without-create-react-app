@@ -1,7 +1,7 @@
-## Introduction to React
+# Introduction to React
 
-# Create Empty Folder - my-app(Manual)
-# Create package.json with empty json {}
+## Create Empty Folder - my-app(Manual) any folder name
+## Create package.json with empty json {}
 
 ### execute below command in my-app(Manual) folder
 
